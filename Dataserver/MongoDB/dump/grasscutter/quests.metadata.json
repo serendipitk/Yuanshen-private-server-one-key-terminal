@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"grasscutter.quests"},{"v":{"$numberInt":"2"},"key":{"ownerUid":{"$numberInt":"1"}},"name":"ownerUid_1","ns":"grasscutter.quests"}],"uuid":"86a44e83807b454c8c0d4f1b728b62f8"}

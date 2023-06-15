@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"grasscutter.counters"}],"uuid":"aa8c1865c2534893990d9bf27d65cd83"}

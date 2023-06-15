@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"grasscutter.mail"},{"v":{"$numberInt":"2"},"key":{"ownerUid":{"$numberInt":"1"}},"name":"ownerUid_1","ns":"grasscutter.mail"}],"uuid":"78b3cc8183b041f7930ed8f644df352a"}
